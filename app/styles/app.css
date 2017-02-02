@@ -1,0 +1,59 @@
+.logo {
+  margin: 0 auto;
+  width: 100% \9;
+  height: 50%;
+  max-height: 400px;
+}
+
+.em {
+  margin: -11px auto;
+  width: 100% \9;
+  /*height: 50%;*/
+  max-height: 300px;
+  position: relative;
+}
+.op {
+  margin: -11px auto;
+  width: 100% \9;
+  /*height: 50%;*/
+  max-height: 300px;
+  position: relative;
+}
+.gc {
+  margin: -11px auto;
+  width: 100% \9;
+  /*height: 50%;*/
+  max-height: 300px;
+  position: relative;
+}
+
+.top {
+  padding-top: 1%;
+  width: 100%;
+  height: 10%;
+}
+
+.operaip {
+  margin-top: 40px;
+  height: 500px;
+}
+.earlymusic {
+  margin-top: 40px;
+  height: 500px;
+  /*background: #fff url("../img/earlymusicposter.png") no-repeat;
+  background-size: 142%;
+  background-position: -80px 80px;*/
+}
+.galaconcert {
+  margin-top: 40px;
+  height: 500px;
+  /*background: #fff url("../img/earlymusicposter.png") no-repeat;
+  background-size: 142%;
+  background-position: -80px 80px;*/
+}
+
+html body {
+  background: #fff url("../img/vpbg.png") no-repeat;
+  background-size: 150%;
+  background-position: -20px top;
+}

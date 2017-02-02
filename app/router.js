@@ -6,6 +6,9 @@ const Router = Ember.Router.extend({
 });
 
 Router.map(function() {
+  this.route('earlymusic');
+  this.route('galaconcert');
+  this.route('vernonproms');
 });
 
 export default Router;
